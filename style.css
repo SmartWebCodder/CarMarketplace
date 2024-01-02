@@ -3,11 +3,11 @@
   font-family: "Titillium Web", sans-serif;
 }
 .navbar {
-  box-shadow: 1px 7px 12px 0px rgba(255, 255, 255, 0.158);
+  box-shadow: 1px 6px 12px 0px rgba(255, 255, 255, 0.158);
 }
 
 body {
-  height: 1700px;
+  height: 1600px;
 }
 .checked {
   color: orange;
@@ -42,7 +42,7 @@ body {
 }
 .nav-icon{
     color: #ffff;
-    font-size: 25px;
+    font-size: 24px;
 }
 
 .icon-item {
@@ -109,7 +109,7 @@ body {
     background-color: red;
     color: #ffffff;
     z-index: 2;
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 0px 9px 10px 0px;
     
 }
 
